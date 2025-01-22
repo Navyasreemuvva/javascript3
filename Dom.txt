@@ -1,0 +1,29 @@
+DOM [ document object model]
+
+wondow ----- root element
+  |   
+  |
+screen navigator navigation history storage fetch DOM
+   |
+   |
+DOM 
+--> it is nothing but a document
+
+head ----.> tags -> mata and title 
+body ---> all tags
+
+============>>>>>>>
+ DOM is an object
+it is an api provided by window
+it is having a root element - document
+it is having life-span is page-reload
+==========>>>>>>>
+used to create, delete, and update an alement and is used to provide style for an element
+
+
+//convertion of html structure to DOM tree
+
+                    |---> head ---> meta, title       
+Document --> html --|
+                    |---> body ---> h1, paragraph
+                    
