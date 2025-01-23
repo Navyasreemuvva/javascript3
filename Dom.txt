@@ -27,3 +27,9 @@ used to create, delete, and update an alement and is used to provide style for a
 Document --> html --|
                     |---> body ---> h1, paragraph
                     
+
+Login page
+user name - admin
+password - adimn@123
+submit button - flipkart webpage
+the page should get reload
