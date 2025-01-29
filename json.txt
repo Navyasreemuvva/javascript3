@@ -1,0 +1,24 @@
+JSON ( java-script object notation)
+------------------------------------
+-->two-types
+1)SOAP - source object access protocal
+  --> HTTP, XMR(AJAX)
+
+2)REST - represntational state transfer
+  -->JSON 
+
+  JSON  [java-script object notation]
+
+  ----> It is plain texxt file where data will 
+
+how to create JSON
+------------------
+step 1 : create a .json file
+step 2 : to create json we cannot use undefined and function data type
+        --> will store data in a [{}, {}, {}]
+
+methods of json
+1)stringify()
+--> will convert object to json type.
+2)parse()
+--> will convert json to object format
